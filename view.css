@@ -8,13 +8,11 @@ html, body {
 }
 #head {
     background-color: #eee;
+    box-sizing: border-box;
+    border: dotted black 1.2px;
     width: 200px;
     align-self: center;
 }
-/* .container {
+p {
+    color: pink; 
 }
-.element {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-} */
